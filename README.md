@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Vechus/Vechus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my brand new README style page.
 
-Here are some ideas to get you started:
+#### Personal website coming soon!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working for Polimi Motorcycle Factory, developing our racing bike's dashboard
+- 🌱 I’m currently learning Rust programming language
+- 👯 I’m looking to collaborate on more embedded devices / robotics projects
+- 💬 Ask me about coffee and Formula 1/2/3
+
+[![Vechus's github stats](https://github-readme-stats.vercel.app/api?username=vechus)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vechus)](https://github.com/anuraghazra/github-readme-stats)
