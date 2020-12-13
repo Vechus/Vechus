@@ -2,7 +2,7 @@
 
 This is my brand new README style page.
 
-#### Personal website coming soon!
+#### Personal website coming soon (not so soon)!
 
 - 🔭 I’m currently working for Polimi Motorcycle Factory, developing our racing bike's dashboard
 - 🌱 I’m currently learning Rust programming language
