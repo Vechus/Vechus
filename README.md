@@ -4,7 +4,7 @@ This is my brand new README style page.
 
 #### Personal website coming soon (not so soon)!
 
-- 🔭 I’m currently working for Polimi Motorcycle Factory, I'm the responsible of the software developement departement
+- 🔭 I’m currently working for Polimi Motorcycle Factory, I'm the responsible of the software development departement
 - 🌱 I’m currently learning Rust programming language
 - 🇩🇪 Learning german
 - 💻 Cyber security amateur
