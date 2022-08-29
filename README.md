@@ -15,10 +15,3 @@ This is my brand new README style page.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vechus)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   32 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 % 
-```
-<!--END_SECTION:waka-->
