@@ -57,7 +57,7 @@ I thrive at the intersection of code, systems, and innovation—always driven by
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vecchioluca)
 - 🧠 [GitHub](https://github.com/vecchus)
-- ✉️ vecchiolucag8@gmail.com
+- ✉️ vecchioluca98(at)gmail(dot)com
 
 ---
 
