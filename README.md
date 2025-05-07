@@ -55,8 +55,8 @@ I thrive at the intersection of code, systems, and innovation—always driven by
 
 ### 🤝 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vecchioluca)
-- 🧠 [GitHub](https://github.com/vecchus)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vechus)
+- 🧠 [GitHub](https://github.com/vechus)
 - ✉️ vecchioluca98(at)gmail(dot)com
 
 ---
